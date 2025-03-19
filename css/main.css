@@ -4323,10 +4323,9 @@ a, a:hover {
 }
 @font-face {
   font-family: 'icons';
-  src:url(../css/fonts/icons.eot);
+  src:url(../css/fonts/icons.ttf) format('truetype');
   src:url(../css/fonts/icons.eot?#iefix) format('embedded-opentype'),
     url(../css/fonts/icons.woff) format('woff'),
-    url(../css/fonts/icons.ttf) format('truetype'),
     url(../css/fonts/icons.svg#icons) format('svg');
 }
 
